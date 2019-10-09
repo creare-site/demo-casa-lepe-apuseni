@@ -1,0 +1,29 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "lepedeanmarian@yahoo.com",
+    "phone"          : "0745561098",
+    "address"        : "Principala Nr.281 - Rosia Montana517615 Rosia Montana, Alba",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Casa Lepe",
+    "app_subtitle"   : "O locatie excelenta de cazare in Rosia Montana.",
+
+    "seo_title"      : "Casa Lepe - Cazare Apuseni | WebsiteMarket",
+    "seo_desc"       : "O locatie excelenta de cazare in Rosia Montana.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/creare-site/pensiuni/casa-lepe-apuseni/", 
+    "github"         : "https://github.com/creare-site/demo-casa-lepe-apuseni/",
+    "github_group"   : "https://github.com/creare-site/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/casalepe/",
+    "youtube"        : "https://www.youtube.com/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
