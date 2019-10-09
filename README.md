@@ -10,7 +10,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 ## Informatii produs
 
-- Site de prezentare - River Resort
+- Site de prezentare - Casa Lepe
 - Live [DEMO](https://casa-lepe-apuseni.websitemarket.ro)
  
 <br />
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[River Resort](https://websitemarket.ro/creare-site/pensiuni/casa-lepe-apuseni/) un produs **WebsiteMarket**
+[Casa Lepe](https://websitemarket.ro/creare-site/pensiuni/casa-lepe-apuseni/) un produs **WebsiteMarket**
